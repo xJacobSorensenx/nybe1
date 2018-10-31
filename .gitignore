@@ -1,0 +1,5 @@
+# filer der ikke skal oploades til github
+
+bin/
+obj/
+migrations/
